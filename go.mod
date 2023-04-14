@@ -21,8 +21,8 @@ require (
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-version v1.6.0
-	github.com/hashicorp/nomad v1.5.2
-	github.com/hashicorp/nomad/api v0.0.0-20230321225438-9a2fdb5f53dc
+	github.com/hashicorp/nomad v1.5.3
+	github.com/hashicorp/nomad/api v0.0.0-20230417140352-a46e8e62fe6b
 	github.com/hashicorp/terraform-plugin-sdk v1.17.2
 	github.com/hashicorp/vault v0.10.4
 	github.com/stretchr/testify v1.8.1
@@ -90,7 +90,6 @@ require (
 	github.com/oklog/run v1.1.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/posener/complete v1.2.3 // indirect
-	github.com/shoenig/test v0.6.3 // indirect
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/spf13/afero v1.6.0 // indirect
 	github.com/spf13/cast v1.3.1 // indirect

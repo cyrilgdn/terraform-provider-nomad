@@ -441,10 +441,10 @@ github.com/hashicorp/hcl/v2 v2.9.2-0.20220525143345-ab3cae0737bc h1:32lGaCPq5JPY
 github.com/hashicorp/hcl/v2 v2.9.2-0.20220525143345-ab3cae0737bc/go.mod h1:odKNpEeZv3COD+++SQcPyACuKOlM5eBoQlzRyN5utIQ=
 github.com/hashicorp/logutils v1.0.0 h1:dLEQVugN8vlakKOUE3ihGLTZJRB4j+M2cdTm/ORI65Y=
 github.com/hashicorp/logutils v1.0.0/go.mod h1:QIAnNjmIWmVIIkWDTG1z5v++HQmx9WQRO+LraFDTW64=
-github.com/hashicorp/nomad v1.5.2 h1:4dHbKF2UZEYXoXPUfG1VdSDaOaGpuqZUiCnuKuna83o=
-github.com/hashicorp/nomad v1.5.2/go.mod h1:ywYvhApBI9mRlmS8qMhoaWUbzeVGiJHKMjwy8l7fHRY=
-github.com/hashicorp/nomad/api v0.0.0-20230321225438-9a2fdb5f53dc h1:XhUHxwOMmGbSun7xsszFLsBqGz3WbWhi5zWVAEo+c8M=
-github.com/hashicorp/nomad/api v0.0.0-20230321225438-9a2fdb5f53dc/go.mod h1:bKUb1ytds5KwUioHdvdq9jmrDqCThv95si0Ub7iNeBg=
+github.com/hashicorp/nomad v1.5.3 h1:IdXNqF7uNMqsnOdUl8jv+8IF0ybQMSXie0q5q7mpTiM=
+github.com/hashicorp/nomad v1.5.3/go.mod h1:ywYvhApBI9mRlmS8qMhoaWUbzeVGiJHKMjwy8l7fHRY=
+github.com/hashicorp/nomad/api v0.0.0-20230417140352-a46e8e62fe6b h1:F0h9/DoyZuEo2aXeAiTg1hj9OOx/EXqqAF9+8aJyUHI=
+github.com/hashicorp/nomad/api v0.0.0-20230417140352-a46e8e62fe6b/go.mod h1:2TCrNvonL09r7EiQ6M2rNt+Cmjbn1QbzchFoTWJFpj4=
 github.com/hashicorp/serf v0.10.1 h1:Z1H2J60yRKvfDYAOZLd2MU0ND4AH/WDz7xYHDWQsIPY=
 github.com/hashicorp/terraform-config-inspect v0.0.0-20191212124732-c6ae6269b9d7 h1:Pc5TCv9mbxFN6UVX0LH6CpQrdTM5YjbVI2w15237Pjk=
 github.com/hashicorp/terraform-config-inspect v0.0.0-20191212124732-c6ae6269b9d7/go.mod h1:p+ivJws3dpqbp1iP84+npOyAmTTOLMgCzrXd3GSdn/A=
@@ -567,7 +567,6 @@ github.com/sergi/go-diff v1.1.0/go.mod h1:STckp+ISIX8hZLjrqAeVduY0gWCT9IjLuqbuNX
 github.com/sergi/go-diff v1.2.0 h1:XU+rvMAioB0UC3q1MFrIQy4Vo5/4VsRDQQXHsEya6xQ=
 github.com/sergi/go-diff v1.2.0/go.mod h1:STckp+ISIX8hZLjrqAeVduY0gWCT9IjLuqbuNXdaHfM=
 github.com/shoenig/test v0.6.3 h1:GVXWJFk9PiOjN0KoJ7VrJGH6uLPnqxR7/fe3HUPfE0c=
-github.com/shoenig/test v0.6.3/go.mod h1:byHiCGXqrVaflBLAMq/srcZIHynQPQgeyvkvXnjqq0k=
 github.com/shopspring/decimal v1.2.0 h1:abSATXmQEYyShuxI4/vyW3tV1MrKAJzCZ/0zLUXYbsQ=
 github.com/shopspring/decimal v1.2.0/go.mod h1:DKyhrW/HYNuLGql+MJL6WCR6knT2jwCFRcu2hWCYk4o=
 github.com/sirupsen/logrus v1.4.1/go.mod h1:ni0Sbl8bgC9z8RoU9G6nDWqqs/fq4eDPysMBDgk/93Q=
